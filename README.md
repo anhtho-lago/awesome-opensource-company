@@ -37,9 +37,12 @@
 - [[Airbyte] Company handbook](https://handbook.airbyte.com/)
 - [[Strapi] Company handbook](https://handbook.strapi.io/)
 
-
 ### Tools and databases
+- [[Posthog] Should open-source projects track you?](https://posthog.com/blog/open-source-telemetry-ethical) - An ethical framework 
+- [[COSS] $100M Revenue Commercial Open Source Index](https://docs.google.com/spreadsheets/u/1/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0) - A list of mature commercial OSS companies 
+- [Star-History Plugin](https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn) - See the star history of any Github repository
 
-### Logos and mascots
-
+### Logos and Mascots
+- [[Airbyte] How we chose our Logo and Mascot](https://airbyte.com/blog/how-we-chose-our-logo-and-mascot#:~:text=Last%20month%2C%20we%20changed%20our,a%20new%20mascot%20named%20Octavia.)- Their internal iteration process 
+- [[Posthog] How we chose our Mascot](https://posthog.com/blog/drawing-hedgehogs) - The story behind the hedgehog 
 
