@@ -12,7 +12,7 @@
 
 ### High-level open-source perspectives
 
-- [[Mike Volpi / Matt Turk] The Power of Open Source: In conversation with Mike Volpi, General Partner, Index Ventures ](https://mattturck.com/volpi/) - The 3 waves of Open Source companies, what to look for in VCs 
+- [[Mike Volpi / Matt Turk] The Power of Open Source](https://mattturck.com/volpi/) - The 3 waves of Open Source companies, what to look for in VCs 
 
 ### Retrospectives
 - [[Airbyte] What we learned from our Soft Launch](https://airbyte.com/blog/what-we-learned-from-our-soft-launch-and-why-you-should-consider-one) - Their very first launch
