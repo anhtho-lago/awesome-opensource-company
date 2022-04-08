@@ -24,6 +24,7 @@
     - [Four years in, from misfits to mainstream](https://blog.getdbt.com/four-years-in-from-misfits-to-mainstream/)
 - [[Cal.com] Open-sourcing Business Applications](https://oss-startup-podcast.launchnotes.io/announcements/1-58007c72-f5fe-487c-b2fa-416eb722eaf9) - The oss journey of a business application, pretty different from the usual infrastructure / data product 
 - [[Hugging Face] Hugging Face and the AI community](https://oss-startup-podcast.launchnotes.io/announcements/episode-19-hugging-face-the-open-source-ai-community) - How they pivoted to a chatbot to the leading AI community 
+- [[Plausible.io] How we bootstrapped our open source Google Analytics alternative to $500k ARR](https://plausible.io/blog/bootstrapping-saas)- The pros and cons of being bootstrapped and their marketing techniques
 
 ### Business models
 - [[Wikipedia] Business models for open source softwares - Extensive lists of past and potential business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) - Extensive lists of past and potential business models
