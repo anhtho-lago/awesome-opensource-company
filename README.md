@@ -31,6 +31,7 @@
 - [[Posthog] How we monetized our open source devtool](https://posthog.com/blog/open-source-business-models)- Laying out 4 of the main options: support, hosted vs self-hosted, open-core, donations ; and reflecting on Posthog’s journey
 - [[Andy Matuschak] - Meteor was a viable business, but not a viable venture-backed business](https://notes.andymatuschak.org/z5AZv9etb27GJ1ZMrmXqyUE7AQbKWsFCTNoVX) - Why raising $53M led by a16z was not a good idea after all 
 - [[dbt] Pricing Vision Fit](https://blog.getdbt.com/pricing-vision-fit/) - dbt CEO on how setting a low or high base price reveals your strategy 
+- [[Lago] How we think about our own pricing](https://www.getlago.com/blog/how-we-think-about-our-own-pricing) - Lago CEO on how their thought process towards monetization
 
 ### Company handbooks
 - [[Gitlab] Company handbook](https://about.gitlab.com/handbook/)
